@@ -5,8 +5,8 @@ usage: wizcheat <DSK file> <character's name> <action> [<action> ...]
 
 example: wizcheat C:\wiz1to3\SAVE1.DSK DEADPOOL NEUTRAL NINJA ALL18 ITEM EXP EXP GOLD
     (A character named DEADPOOL becomes a NEUTRAL NINJA with
-     all stats values of 18, and gains the strongest equipment,
-     60 levels of experience and 1000000 gold.)
+     all stats values of 18, and gains the strongest equipments,
+     20 levels of experience and 1000000 gold.)
 
 actions:
     FIGHTER - change character's class to FIGHTER.
@@ -31,7 +31,7 @@ actions:
     ITEM    - change character's items to the most powerful ones for the class.
     AGE     - decrease character's age to zero.
     GOLD    - increase character's gold by 1,000,000.
-    EXP     - increase character's experience by 30 levels.
+    EXP     - increase character's experience by 10 levels.
     RESET   - reset character's password.
     others  - print the character's status, and quit without saving.
 
