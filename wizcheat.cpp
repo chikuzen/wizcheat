@@ -717,10 +717,10 @@ void usage() noexcept
     std::cerr << "    NEUTRAL - change character's alignment to NEUTRAL.\n";
     std::cerr << "    EVIL    - change character's alignment to EVIL.\n";
     std::cerr << "    HUMAN   - change character's race to HUMAN.\n";
-    std::cerr << "    ELF     - change character's race to HUMAN.\n";
-    std::cerr << "    DWARF   - change character's race to HUMAN.\n";
-    std::cerr << "    GNOME   - change character's race to HUMAN.\n";
-    std::cerr << "    HOBBIT  - change character's race to HUMAN.\n";
+    std::cerr << "    ELF     - change character's race to ELF.\n";
+    std::cerr << "    DWARF   - change character's race to DWARF.\n";
+    std::cerr << "    GNOME   - change character's race to GNOME.\n";
+    std::cerr << "    HOBBIT  - change character's race to HOBBIT.\n";
     std::cerr << "    ALL18   - change character's all stats to 18.\n";
     std::cerr << "    CURE    - change character's condition\n";
     std::cerr << "              ('PARALY', 'STONED', 'DEAD', 'ASHED' and 'LOST') to 'OK'.\n";

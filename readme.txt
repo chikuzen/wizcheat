@@ -21,10 +21,10 @@ actions:
     NEUTRAL - change character's alignment to NEUTRAL.
     EVIL    - change character's alignment to EVIL.
     HUMAN   - change character's race to HUMAN.
-    ELF     - change character's race to HUMAN.
-    DWARF   - change character's race to HUMAN.
-    GNOME   - change character's race to HUMAN.
-    HOBBIT  - change character's race to HUMAN.
+    ELF     - change character's race to ELF.
+    DWARF   - change character's race to DWARF.
+    GNOME   - change character's race to GNOME.
+    HOBBIT  - change character's race to HOBBIT.
     ALL18   - change character's all stats to 18.
     CURE    - change character's condition
               ('PARALY', 'STONED', 'DEAD', 'ASHED' and 'LOST') to 'OK'.
